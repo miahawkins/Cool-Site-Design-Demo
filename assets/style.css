@@ -1,0 +1,98 @@
+html {
+    font-family: "Karla", sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 50px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 40px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 1;
+    line-height: 25px;
+}
+
+button {
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 18px;
+    background-color: #d9f0d0;
+}
+
+p {
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 25px;
+}
+
+.hero-image {
+    background-image: url("/assets/Images/image1.png");
+    height: 600px;
+    background-position: center;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:1 280px;
+    overflow: hidden;
+}
+
+.hero-text {
+    text-align: left;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+#brent1 {
+    margin: 0px;
+}
+
+.heroh1 {
+    font-size: 65px;
+    font-weight: bold;
+    letter-spacing: 0.73;
+    line-height: 76px;
+}
+
+.herop {
+    margin-right: 35%;
+}
+
+header {
+    padding: 1.5% 0% 1.5% 0% ;
+    margin-left: 5%;
+}
+
+nav {
+    float: right;
+}
+
+.second-section {
+    margin-left: 5%;
+    display: flex;
+
+}
+#brent2 {
+    margin: 0;
+    padding-right: 2%;
+    width: 600px;
+}
+
+.info {
+    float: left;
+    margin-right: 7%;
+}
+
